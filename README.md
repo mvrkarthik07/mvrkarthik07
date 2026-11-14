@@ -1,205 +1,335 @@
 <div align="center">
 
-# Karthik Manda
+```
+██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗
+██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝
+█████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝
+██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗
+██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+        ███╗   ███╗ █████╗ ███╗   ██╗██████╗  █████╗
+        ████╗ ████║██╔══██╗████╗  ██║██╔══██╗██╔══██╗
+        ██╔████╔██║███████║██╔██╗ ██║██║  ██║███████║
+        ██║╚██╔╝██║██╔══██║██║╚██╗██║██║  ██║██╔══██║
+        ██║ ╚═╝ ██║██║  ██║██║ ╚████║██████╔╝██║  ██║
+        ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝
+```
 
-**Computer Engineering @ NTU Singapore · Gold Tier Alpha Researcher @ WorldQuant BRAIN · Apple Swift Student Challenge 2026 Winner**
+<a href="https://mvrkarthik.netlify.app">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=FFD700&center=true&vCenter=true&width=640&lines=Registers+to+returns.;Bare-metal+C+%E2%86%92+deep+RL+%E2%86%92+alpha+research.;AI+Engineer+Intern+%40+BNP+Paribas;Gold+Tier+Research+Consultant+%40+WorldQuant+BRAIN;Apple+Swift+Student+Challenge+2026+Winner" alt="Typing SVG" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mkarthik1725215@gmail.com)
-[![WorldQuant BRAIN](https://img.shields.io/badge/WorldQuant_BRAIN-Gold_Tier_%F0%9F%8F%85-FFD700?style=flat-square)](https://worldquant.com)
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-mvrkarthik.netlify.app-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://mvrkarthik.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-manda-)
+[![Email](https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkarthik1725215@gmail.com)
+[![BRAIN](https://img.shields.io/badge/WorldQuant_BRAIN-Gold_Tier-FFD700?style=for-the-badge&logo=bitcoin&logoColor=black)](https://platform.worldquantbrain.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=mvrkarthik07&style=flat-square&color=FFD700&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-## About
+## `> whoami`
 
-Penultimate-year Computer Engineering student at NTU Singapore with a crossover profile spanning **embedded systems**, **deep reinforcement learning**, **quantitative alpha research**, and **full-stack development**. Singapore PR.
+```console
+karthik@ntu:~$ cat about.yaml
+```
 
-- 🏅 **WorldQuant BRAIN Gold Tier** — top ~5% globally in quantitative alpha research
-- 🍎 **Apple Swift Student Challenge 2026** — Global Top 300 winner
-- 🏆 **HTX HackX 2025 Finalist** — Top 15 of 60 shortlisted teams (SCDF plume response dashboard)
-- 🔬 Currently building: MADDPG multi-agent trading system, STM32 bare-metal gimbal, CodeRecon static analysis engine
-
----
-
-## Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-4B0082?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Assembly](https://img.shields.io/badge/8086_Assembly-525252?style=flat-square)
-
-### Embedded & Hardware
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=flat-square)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
-![MSP432](https://img.shields.io/badge/MSP432-C75000?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-555555?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square)
-![UART](https://img.shields.io/badge/UART-555555?style=flat-square)
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-555555?style=flat-square)
-![PWM](https://img.shields.io/badge/PWM-555555?style=flat-square)
-
-### ML / AI / Quant
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Web & Dev Tools
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado_HDL-E01F27?style=flat-square)
-
-### Lab Instruments
-Oscilloscope · Logic Analyzer · DC Power Supply
+```yaml
+name:        Karthik Manda
+based_in:    Singapore 🇸🇬  (PR)
+studying:    B.Eng (Hons) Computer Engineering @ NTU  ·  class of 2028
+right_now:
+  - AI Engineer Intern        @ BNP Paribas         # MCP servers for the bank's AI assistant
+  - Research Consultant       @ WorldQuant BRAIN    # Gold Tier, top ~5% globally
+  - Head of Development       @ NTU Quant Finance Academy
+stack_depth: [ registers, RTOS, Linux, backends, deep RL, alpha factors ]
+scholarship: NTU–Google Career Scholarship
+open_to:     [ quant research / trading, AI engineering, embedded systems ]
+fun_fact:    "I've written PID loops for gimbals and reward functions for trading agents. Same math, different panic."
+```
 
 ---
 
-## Projects
+## 🏆 Trophy Cabinet
 
-### 🤖 Multi-Agent RL Trading System
-`Python` `PyTorch` `MADDPG` `Pandas`
+<div align="center">
 
-Designed a PyTorch-based MADDPG architecture for coordinated autonomous trading across 50+ assets simultaneously.
-- Outperforms single-agent baselines with **Sharpe ratio of 1.5–2.0**
-- OHLCV-based feature pipelines with portfolio-level reward shaping
+| | Award | What happened |
+|:-:|---|---|
+| 🍎 | **Apple Swift Student Challenge 2026** | **Global Winner (Top 300).** ArchLab: real-time distributed-systems simulator, SwiftUI Canvas at 60 fps, < 25 MB, zero third-party deps |
+| 🏦 | **J.P. Morgan Private Bank Challenge 2026** | **Finalist, Honourable Mention (Top 6).** $250M UHNW mandate, SAA/TAA with a 13% drawdown budget |
+| 🖥️ | **IBM Z Datathon 2026** | **Regional Runner-Up (APAC).** SpellBreaker: real-time scam-transfer interruption on IBM LinuxONE |
+| 📈 | **WorldQuant IQC 2026** | **Top 15 in Singapore** |
+| 🚒 | **HTX HackX 2025** | **Finalist (Top 15 / 60).** SCDF chemical-plume incident-command dashboard |
+
+</div>
+
+---
+
+## 💼 Experience
+
+```text
+ 2026 ─────────────────────────────────────────────────────────────────────▶
+   │
+   ├─ FEB–MAR ▸ Web Dev Intern ······· NTU Wee Kim Wee School (React)
+   ├─ JUN ──▶ ▸ Research Consultant ·· WorldQuant BRAIN  [GOLD ★]
+   ├─ JUL–DEC ▸ AI Engineer Intern ··· BNP Paribas (MCP, Python, Docker)
+   └─ SEP ──▶ ▸ Head of Development ·· NTU Quant Finance Academy
+```
+
+<details open>
+<summary><b>🏦 BNP Paribas · AI Engineer Intern</b> <i>(Jul – Dec 2026)</i></summary>
+<br/>
+
+- Designed and built **3 Python MCP servers** connecting the bank's internal AI assistant to enterprise project, document and architecture platforms over **OIDC SSO**, each owned end to end from research to dev rollout
+- Re-architected a monolithic server into **modular auth / data / tool layers**, migrated it to **PostgreSQL**, containerised it with **Docker**, and cleared code-quality and network-security build blockers
+- Drove evaluation and onboarding of an enterprise AI coding assistant across internal engineering teams
+
+</details>
+
+<details open>
+<summary><b>🟡 WorldQuant BRAIN · Research Consultant, Gold Tier</b> <i>(Jun 2026 – Present)</i></summary>
+<br/>
+
+- Built a **Python batch-simulation pipeline** (session auth, parameterised FastExpr templates, pre-filtering, sequential API submission) plus a **local Zipline backtester** that re-implements BRAIN operators for offline screening
+- Ported the **101 Formulaic Alphas** to FastExpr; blended fundamental, options and network signals into composites, using cross-sectional normalisation to keep pairwise correlation under the submission cutoff
+
+</details>
+
+<details>
+<summary><b>📊 NTU Quant Finance Academy · Head of Development</b> <i>(Sep 2026 – Present)</i></summary>
+<br/>
+
+- Selected from 50 applicants to lead the development arm, turning research into executable, backtestable strategies
+- Teach the 50-member cohort and shape the AY2026/27 programme of lessons, events and a trading competition
+
+</details>
+
+<details>
+<summary><b>💻 NTU WKWSCI · Web Development Intern</b> <i>(Feb – Mar 2026)</i></summary>
+<br/>
+
+- Delivered a 4-page faculty research website in React, from requirements gathering through deployment
+- Responsive, university-branded front end with data visualisations that faculty update themselves
+
+</details>
+
+<details>
+<summary><b>🔧 Singapore Armed Forces · Wheeled Vehicle Technician</b> <i>(Jan 2023 – Aug 2024)</i></summary>
+<br/>
+
+- Diagnosed engine, drivetrain, hydraulic and electrical faults on wheeled military platforms
+- ECU fault diagnosis with scan tools; hands-on with CAN-based vehicle networks
+
+</details>
+
+---
+
+## 🚀 Featured Builds
+
+### 🤖 Multi-Agent RL Equity Trading System
+`Python` `PyTorch` `MADDPG`
+
+```text
+   ┌────────────┐  ┌────────────┐  ┌──────────────┐
+   │  MOMENTUM  │  │ CONTRARIAN │  │ RISK-CONTROL │   ← role-specific MADDPG agents
+   └─────┬──────┘  └─────┬──────┘  └──────┬───────┘
+         └───────────────┼────────────────┘
+                 ┌───────▼────────┐
+                 │ META-ALLOCATOR │ ──▶ US large-cap portfolio
+                 └───────┬────────┘
+                 ┌───────▼────────┐
+                 │  KILL-SWITCH   │   ← fallback if things go sideways
+                 └────────────────┘
+```
+
+| Best out-of-sample period | Agents | Benchmark |
+|---|:-:|:-:|
+| Return | **25.5%** | 16.8% |
+| Sharpe | **1.79** | 1.35 |
+| Max drawdown | **−6.0%** | −7.6% |
+
+Walk-forward train / validation / OOS splits across multiple seeds. Robustness runs cut average max drawdown from **−10.1% → −6.9%**.
+
+---
+
+### 🔍 CodeRecon · Local-First Static Analysis Engine
+`Python` `AST` `MCP` `Ollama` · 📦 **on PyPI**
+
+```text
+  your_repo/ ──▶ [ AST parse ] ──▶ [ import graph ] ──▶ [ hotspot detector ]
+                                                               │
+                         AI agent ◀── MCP server ◀─────────────┘
+                                         │
+                                  Llama 3 (local) 🔒  source never leaves your machine
+```
+
+CLI that maps a Python repo's import graph, flags architectural hotspots deterministically, and serves the topology to AI agents over MCP.
 
 ---
 
 ### ⚙️ STM32 Gimbal Self-Levelling System
-`Bare-Metal C` `STM32` `FreeRTOS` `MPU-6050` `I2C/SPI/UART/PWM`
+`Bare-Metal C` `STM32` `FreeRTOS` `MPU-6050`
 
-Self-levelling gimbal with full bare-metal register configuration — no HAL abstraction.
-- PID control with **Kalman + complementary filtering** for IMU sensor fusion over I2C
-- Direct TIM, RCC, GPIO register configuration for PWM-based servo/DC motor control
-- FreeRTOS tasks, queues, and semaphores for concurrent sensor polling, motor actuation, and UART telemetry
-
----
-
-### 🔍 CodeRecon: Modular Static Analysis Engine
-`Python` `AST` `Ollama` `GitHub Actions`
-
-Repository-scale static analysis engine with local-first LLM inference.
-- AST parser detects structural anti-patterns: dead code, complexity hotspots, coupling violations
-- Local Ollama/Llama3 pipeline generates architecture-level refactor suggestions with **zero cloud data exposure**
-- Automated CI/CD via GitHub Actions; published to **PyPI**
+```text
+  MPU-6050 ──I²C──▶ Kalman + complementary ──▶ PID ──PWM──▶ servos
+                     filter (sensor fusion)      │
+                                                 └──UART──▶ telemetry
+       [ no HAL · raw TIM / RCC / GPIO registers · FreeRTOS tasks + queues + semaphores ]
+```
 
 ---
 
-### 📡 Embedded Linux Client-Server & Defuse System
-`C` `Raspberry Pi` `TCP Sockets` `GPIO`
+### 🥇 Behavioural-Finance XAUUSD Model · C22 veNTUre (solo)
+`Python` `scikit-learn`
 
-Real-time embedded Linux system with hardware-software integration.
-- TCP socket client-server for live sensor data streaming
-- GPIO button input, buzzer/LED output, timer-based countdown logic with pass/fail event handling
+Derived the fade payoff and a **5× friction asymmetry** from first principles. When the Ridge model trailed baseline, I traced and disclosed my own data bug, then rebuilt it. Organisers rated the method among the cohort's most careful.
 
----
+<details>
+<summary><b>🧰 More builds (embedded, hardware, full-stack, design)</b></summary>
+<br/>
 
-### 🤖 RSLK-MAX Mobile Robot
-`C` `MSP432` `DC Motor Control` `Timer Interrupts`
-
-Line-following and closed-loop DC motor control on MSP432.
-- Sensor feedback, duty-cycle adjustments, and hardware timer interrupt-driven control loop
-
----
-
-### 🔢 8-bit ALU Design
-`Verilog HDL` `Vivado` `8086 Assembly`
-
-- 8-bit adder and multiplier in Verilog HDL
-- Behaviour verified via Vivado waveform simulation and assembly-level arithmetic
-
----
-
-### 🌐 Full-Stack Web Projects
-
-| Project | Stack | Description |
+| Project | Stack | Notes |
 |---|---|---|
-| **Conspiracy Theory Research Datasite** | React, JavaScript | 4 production pages, WCAG 2.1 AA compliant, full SDLC — built during NTU internship |
-| **HelioDesk** | React, JS, PostgreSQL, Supabase | Personal productivity dashboard; cross-platform storage reduces access time by 25% |
-| **ParkLah** | React, TypeScript, PostgreSQL | Geolocation-based carpark finder with REST API integration |
-| **Internship Placement Management System** | Java | CLI-based system; OOP-compliant across a multi-developer codebase |
+| **ArchLab** | Swift 6, SwiftUI | Distributed-systems simulator. Apple SSC 2026 winner |
+| **SpellBreaker** | IBM LinuxONE, Python | Flags suspicious transfers before they clear. IBM Z Datathon APAC runner-up |
+| **Embedded Linux Client-Server & Defuse System** | C, Raspberry Pi, TCP, GPIO | Live sensor streaming, countdown logic with pass/fail events |
+| **RSLK-MAX Mobile Robot** | C, MSP432 | Line following, interrupt-driven closed-loop motor control |
+| **8-bit ALU** | Verilog, Vivado, 8086 ASM | Adder + multiplier, verified via waveform simulation |
+| **HelioDesk** | React, PostgreSQL, Supabase | Personal productivity dashboard |
+| **ParkLah** | React, TypeScript, PostgreSQL | Geolocation carpark finder |
+| **Internship Placement System** | Java | OOP CLI system, multi-developer codebase |
+| **SeniorConnect™ · StudyHavn · CityDrip** | Figma, UX research | Research → wireframes → hi-fi prototypes |
+
+</details>
 
 ---
 
-### 🎨 UI/UX Design Projects
+## 🛠️ Tech Stack
 
-| Project | Description |
+```text
+┌─ FULL-STACK MAP ───────────────────────────────────────────────────────────┐
+│                                                                            │
+│   QUANT     factor models · backtesting · FastExpr · Zipline · deep RL     │
+│   AI        PyTorch · scikit-learn · MCP · LLM agents · RAG · Ollama       │
+│   WEB       React · TypeScript · Tailwind · PostgreSQL · Supabase          │
+│   INFRA     Docker · Linux · GitHub Actions · OIDC · Oracle                │
+│   EMBEDDED  STM32 · FreeRTOS · MSP432 · RPi · I²C/SPI/UART/CAN/PWM         │
+│   SILICON   Verilog · Vivado · 8086 ASM · oscilloscope · logic analyzer    │
+│                                                                            │
+└────────────────────────────────────────────────────── electrons → alpha ───┘
+```
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-4B0082?style=for-the-badge)
+
+**AI · Quant**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+**Infra · Web**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+**Embedded · Hardware**
+
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-8CC84B?style=for-the-badge)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![MSP432](https://img.shields.io/badge/MSP432-C75000?style=for-the-badge&logo=texasinstruments&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-E01F27?style=for-the-badge&logo=amd&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mvrkarthik07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mvrkarthik07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mvrkarthik07&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="95%" />
+</div>
+
+---
+
+## 🎓 Education, Certs & Leadership
+
+<details>
+<summary><b>🎓 Nanyang Technological University</b> · B.Eng (Hons) Computer Engineering · 2024 – 2028</summary>
+<br/>
+
+- **NTU–Google Career Scholarship** recipient (Google AI Professional Certificate)
+- Coursework: Data Structures & Algorithms · Probability & Statistics · OOP · Operating Systems · Microprocessor System Design · Embedded Programming · Digital Logic · Digital System Design · Signals & Transforms · Sensor Interfacing & Digital Control
+
+</details>
+
+<details>
+<summary><b>📜 Certifications</b></summary>
+<br/>
+
+| Cert | Issuer |
 |---|---|
-| **SeniorConnect™** | Mobile app concept tackling senior social isolation via CC event discovery and incentive system |
-| **SCDF Risk Analysis Dashboard** | Operational risk dashboard for critical decision-making under pressure (HTX HackX context) |
-| **StudyHavn** | UX research → wireframe → high-fidelity prototype for study location discovery |
-| **CityDrip** | WCAG-aligned e-commerce experience with iterative user feedback integration |
+| Google AI Professional Certificate | Google (NTU–Google Career Scholarship) |
+| Machine Learning Specialization | DeepLearning.AI / Stanford Online (AMD AI Developer Program) |
+| Software Engineering · Investment Banking · Quant Research | J.P. Morgan Forage |
+| CCNA | Cisco |
+| UI/UX Design · UX Research · Web Design for Everybody | CalArts · University of Michigan |
 
----
+</details>
 
-## Experience
+<details>
+<summary><b>🧭 Leadership</b></summary>
+<br/>
 
-### 🟡 Alpha Researcher — Gold Tier · WorldQuant BRAIN *(2026 – Present)*
-- Engineered data-driven alpha factors using financial signals and operational income parameters
-- Applied cross-sectional normalisation to construct low-correlation alphas targeting quantitative equity markets
-- Gold Tier = sustained alpha performance in top ~5% of global BRAIN consultants
-
-### 💻 Web Development Intern · Wee Kim Wee School of Comm. & Info, NTU *(Feb – Mar 2026)*
-- Architected and deployed full-stack Conspiracy Theory Research Datasite in React/JavaScript
-- Delivered 4 production pages across complete SDLC; WCAG 2.1 AA compliant throughout
-
-### 🔧 Wheeled Vehicle Technician · Singapore Armed Forces *(Jan 2023 – Aug 2024)*
-- Maintained and diagnosed wheeled military platforms across engine, drivetrain, hydraulic, and electrical subsystems
-- ECU-based fault diagnosis using scan tools; practical exposure to CAN-based vehicle communication networks
-
----
-
-## Awards & Certifications
-
-| Award | Detail |
+| Role | Organisation |
 |---|---|
-| 🍎 Apple Swift Student Challenge 2026 | Global Top 300 — ArchLab system design simulator (Swift 6 concurrency) |
-| 🏆 HTX HackX 2025 Finalist | Top 15 / 60 teams — SCDF hazardous chemical plume response dashboard |
-| 📜 ML Specialization | DeepLearning.AI / Stanford Online — Andrew Ng full curriculum |
-| 📜 J.P. Morgan Forage | Software Engineering, Investment Banking (DCF/WACC/M&A), Quantitative Research tracks |
-| 📜 AMD AI Developer Programme | AI app development & LLM fine-tuning on ROCm/AMD GPU ecosystem |
-| 📜 Web Design for Everybody | University of Michigan |
-| 📜 UI/UX Design | CalArts |
-| 📜 UX Research | University of Michigan |
-| 📜 Cisco CCNA | Networking fundamentals |
+| Head of Development | NTU Quant Finance Academy |
+| Chief Programmer | NTU CCDS Transition & Orientation Programme |
+| Head of Events | NTU Indian Society |
+| Community Development Lead | NTU Students of Computing & Data Science Club |
 
----
-
-## Leadership
-
-| Role | Organisation | Period |
-|---|---|---|
-| Head of Events | NTU Indian Society | May 2025 – Present |
-| Chief Programmer | NTU CCDS Transition & Orientation Programme | Sep 2025 |
-| Program Planner | NTU Students of Computing & Data Science Club | Sep 2024 – Sep 2025 |
-| English Club Leader | Narayana English Club | Oct 2018 – Jun 2020 |
-
----
-
-## Education
-
-**B.Eng (Hons), Computer Engineering** · Nanyang Technological University, Singapore *(Aug 2024 – Present)*
-
-Coursework: Data Structures & Algorithms · Object Oriented Programming · Operating Systems · Microprocessor System Design · Embedded Programming · Digital Logic · Digital System Design · Signals & Transforms · Sensor Interfacing & Digital Control · C/C++
+</details>
 
 ---
 
 <div align="center">
-<sub>Singapore PR · Open to internship opportunities in quant finance, embedded systems, and full-stack engineering</sub>
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  status:  OPEN TO 2027 INTERNSHIPS                           ║
+║  quant research · trading · AI engineering · embedded        ║
+║  ping me ──▶ mkarthik1725215@gmail.com                       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:FFD700&height=120&section=footer" width="100%" />
+
 </div>
